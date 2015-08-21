@@ -2467,7 +2467,7 @@
 		background-attachment: scroll,								fixed;
 		background-image: url("images/New Picture.bmp"), url("../../images/bg.jpg");
 		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
+		background-repeat: no-repeat,								no-repeat;
 		background-size: auto,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
