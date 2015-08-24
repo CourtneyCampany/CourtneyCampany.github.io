@@ -216,29 +216,56 @@ Do shade leaves 'lie in wait'?
 <DIV style="position: absolute; top:25px; left:45px; width:200px; height:25px; color:white">
 http://cc61877.github.io/wtc3_talk/index.html#1</DIV>
 
---- .class #id bg:white
-##  Mesophyll conductance and Photosynthesis
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_gm.png">
+<DIV style="position: absolute; top:650px; left:45px; width:600px; height:25px; color:white">
+click through for additional figures</DIV>
 
 --- .class #id bg:white
-## Cc and Photosynthesis
+##  Whole Tree Chamber air variables
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cc.png">
-
---- .class #id bg:white
-## Leaf Ci from gas exchange higher in shade leaves
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_ci.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/airvars.png">
 
 
 --- .class #id bg:white
-## Ci from leaf δ13C higher in shade leaves
+## AC<sub>c</sub> curves
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/photo_cibar.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/acc.png">
+
+
+--- .class #id bg:white
+##  Vc<sub>max</sub> and leaf nitrogen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/vcmaxnitro.png">
+
+
+
+--- .class #id bg:white
+##  Mesophyll conductance and photosynthesis
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/agm.png">
+
+
+--- .class #id bg:white
+## WUE with sunflecks
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/WUE2.png">
+
+
+--- .class #id bg:white
+## Leaf 13C and leaf nitrogen
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/leafdelta.png">
+
+
+--- .class #id bg:white
+## CO<sub>2</sub> Drawdown
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ciccbar.png">
 
 
