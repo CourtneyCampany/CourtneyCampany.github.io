@@ -1,0 +1,25 @@
+
+
+slide:not(.segue) h2{
+  font-family: 'Times New Roman', Arial, sans-serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: bold;
+  text-transform: normal;
+  text-align:center;
+  letter-spacing: -2px;
+  line-height: 1.2em;
+/*  color: #193441;*/
+/*  color: #02574D;*/
+  color: #000000;
+}
+
+slide:not(.segue) h3{
+  font-size: 30px;
+  font-style: normal;
+  text-transform: normal;
+  text-align:center;
+  letter-spacing: -2px;
+  line-height: 1.5em;
+  color: #000000;
+}
