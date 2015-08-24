@@ -252,7 +252,7 @@ click through for additional figures</DIV>
 ## WUE with sunflecks
 <hr>
 
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue_all.png">
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue.png">
 
 
 --- .class #id bg:white
