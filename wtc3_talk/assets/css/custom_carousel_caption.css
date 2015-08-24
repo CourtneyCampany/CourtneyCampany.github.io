@@ -1,0 +1,18 @@
+.carousel-caption {
+      max-width: 700px;
+      max-height: 700px;
+      margin:0 auto;
+      background-color:red;
+      background: rgba(0, 0, 0, 0.1);
+      position:relative;
+      top:0px;
+
+
+}
+
+.carousel-caption p {
+color:black;
+text-align:center;
+font-size: 30px;;
+
+}
