@@ -240,19 +240,11 @@ click through for additional figures</DIV>
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/vcmaxnitro.png">
 
 
-
 --- .class #id bg:white
 ##  Mesophyll conductance and photosynthesis
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/agm.png">
-
-
---- .class #id bg:white
-## WUE with sunflecks
-<hr>
-
-<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/WUE2.png">
 
 
 --- .class #id bg:white
@@ -267,5 +259,11 @@ click through for additional figures</DIV>
 <hr>
 
 <IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/ciccbar.png">
+
+--- .class #id bg:white
+## WUE with sunflecks
+<hr>
+
+<IMG STYLE="position:absolute; TOP:175px; LEFT:175px; WIDTH:700px; HEIGHT:500px" SRC="assets/img/wue_all.png">
 
 
