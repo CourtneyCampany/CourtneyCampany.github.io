@@ -2495,7 +2495,8 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
+		
+			margin-left : 2cm;
 			width: 30 em;
 			height: 24 em;
 		}
