@@ -2554,6 +2554,8 @@
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
+		background-color: #E0C266;
+    opacity: .1;
 	}
 
 		#main > section {
@@ -2887,6 +2889,7 @@
 				max-width: none;
 				padding: 6em 3em 3em 3em;
 				width: calc(100% - 30%);
+				background-color: #FF0000;
 			}
 
 	}
