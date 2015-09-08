@@ -2554,7 +2554,7 @@
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
-		background-color: #E0C266;
+		background-color: #EBD699;
 	}
 
 		#main > section {
@@ -2869,7 +2869,7 @@
 		/* Footer */
 
 			#footer {
-				padding: 0 3em 0 3em;
+				padding: 0 3em 5em 3em;
 				width: 30%;
 			}
 
