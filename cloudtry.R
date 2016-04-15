@@ -24,4 +24,4 @@ thesiscloud <- tm_map(thesiscloud, removePunctuation)
 thesiscloud <- tm_map(thesiscloud, stemDocument)
 thesiscloud <- tm_map(thesiscloud, PlainTextDocument)
 
-wordcloud(thesiscloud, max.words=100,random.order = FALSE,rot.per=0.35, use.r.layout=FALSE, colors=rainbow(8))
+wordcloud(thesiscloud, max.words=100,random.order = FALSE,rot.per=0.35, use.r.layout=FALSE, colors=rainbow(20))
