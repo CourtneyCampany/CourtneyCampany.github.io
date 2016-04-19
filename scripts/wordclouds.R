@@ -24,8 +24,9 @@ thesiscloud <- tm_map(thesiscloud, removePunctuation)
 thesiscloud <- tm_map(thesiscloud, stemDocument)
 thesiscloud <- tm_map(thesiscloud, PlainTextDocument)
 
-png(filename = "images/thesiscloud.png", width = 7, height = 7, units = "in", res= 600)
-wordcloud(thesiscloud, max.words=100,random.order = FALSE,rot.per=0.35, use.r.layout=FALSE, colors=brewer.pal(8,"Dark2"))
+png(filename = "images/thesiscloud2.png", width = 7, height = 7, units = "in", res= 600)
+wordcloud(thesiscloud, max.words=100,random.order = FALSE,rot.per=0.35, use.r.layout=FALSE, bg = "transparent",
+          colors=brewer.pal(8,"Dark2"))
 dev.off()
 
 ###from HIA-----------------------------------------------------------------------------------------------------------------
