@@ -25,7 +25,7 @@ ui <- shinyUI(fluidPage(
   sidebarLayout(position="right",
       sidebarPanel(
         style = "border-color: #cc2904; background-color: white; border-style:dotted;border-width:thick",
-        radioButtons("whichtreatment", "Pick a treatment:",c("aC-dry" = "ambient-dry", "aC-wet" = "ambient-wet", "eC-dry" = "elevated-dry", "eC-wet" = "elevated-wet"), selected="ambient-wet"),
+        radioButtons("whichtreatment", "Pick a treatment:",c("aCO2-dry" = "ambient-dry", "aCO2-wet" = "ambient-wet", "eCO2-dry" = "elevated-dry", "eCO2-wet" = "elevated-wet"), selected="ambient-wet"),
         width=2
       ),
       
