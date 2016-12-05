@@ -1651,7 +1651,7 @@
 	}
 */
 
-sub { vertical-align:text-bottom; font-size:75%; }
+sub { vertical-align: bottom; font-size:75%; }
 
 
 	sup {
